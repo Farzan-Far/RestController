@@ -1,2 +1,2 @@
 # RestController
-Example a simple RestController using SpringBoot and JPA with mysql 
+Example a RestController using SpringBoot and JPA with mysql 
